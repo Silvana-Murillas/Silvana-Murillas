@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **New technologies and frameworks**
 
-- 👯 I’m looking to collaborate on **in projects that involve technologies that I know**
+- 👯 I’m looking to collaborate on ** projects that involve technologies that I know**
 
 - 💬 Ask me about **Javascript,React,Redux,Express,PostgreSQL,MongoDB**
 
