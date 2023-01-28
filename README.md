@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **New technologies and frameworks**
 
-- 👯 I’m looking to collaborate on **in projects that involve technologies that I know**
+- 👯 I’m looking to collaborate on ** projects that involve technologies that I know**
 
 - 👨‍💻 All about me are available at [https://silvana-github-io.vercel.app/](https://silvana-github-io.vercel.app/)
 
